@@ -1177,11 +1177,13 @@
     overflow: hidden;
     pointer-events: auto;
     position: relative;
-    -webkit-transition: -webkit-transform .25s ease-in-out;
-    -webkit-transition: transform .25s ease-in-out;
-    transition: transform .25s ease-in-out;
+    -webkit-transition: -webkit-transform .9s ease-in-out;
+    -webkit-transition: transform .9s ease-in-out;
+    transition: transform .9s ease-in-out;
     z-index: 1;
   }
+
+  
   
   .site-content {
     -webkit-box-flex: 1;
